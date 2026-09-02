@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
