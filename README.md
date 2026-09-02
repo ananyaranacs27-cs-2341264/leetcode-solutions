@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
