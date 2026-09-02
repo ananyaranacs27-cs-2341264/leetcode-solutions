@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
