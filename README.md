@@ -109,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -123,8 +125,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
