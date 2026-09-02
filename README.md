@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
