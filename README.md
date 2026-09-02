@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
