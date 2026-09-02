@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
