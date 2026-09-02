@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -93,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ananyaranacs27-cs-2341264/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
